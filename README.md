@@ -6,7 +6,7 @@ I used to hold a few world records in Roblox bhop's scroll style and shortly tra
 I'm based in the West Midlands with an interest in, and focus on, software development and analysis.<br>
 On my Github you'll find several projects ranging from self-teaching a language, up to writing a program in Python to manipulate memory to grant an unfair advantage in competitive games.
 ### Specifics
-- Two Diplomas in IT/CompSci
+- Three Diplomas in IT/CompSci with one A-level equivalent
 - Python, Rudimentary C++/C#, BASH
 - HTML, CSS, JavaScript
 - SQL with a MariaDB focus
