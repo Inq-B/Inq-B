@@ -4,6 +4,8 @@ I'm Inq (or Lillian), a transfem IT enthusiast from the UK; I have a deep love f
 - 🐇 Bunnyhopper in Counter-Strike: Source 
 - ☀️ IT nerd by day, gamer by night
 
+TL;DR - GCS/IT d s-:+ a? C+++ UL++ P--- L+++ E--- W++ N-- PS+ PE Y+ PGP+ R tv b+ G e+ r+ x**
+
 ## About Me
 I'm based in the West Midlands with an interest in, and focus on, software development and analysis.<br>
 On my Github you'll find several projects ranging from self-teaching a language, up to writing a program in Python to manipulate memory to grant an unfair advantage in competitive games.
